@@ -1,0 +1,9 @@
+tn\iit\micro\service\cloud\entities\Student.class
+tn\iit\micro\service\cloud\dto\StudentRequest.class
+tn\iit\micro\service\cloud\dto\StudentResponse.class
+tn\iit\micro\service\cloud\controller\StudentController.class
+tn\iit\micro\service\cloud\SpringBootAppSoaApplication.class
+tn\iit\micro\service\cloud\dto\AddressRequest.class
+tn\iit\micro\service\cloud\dto\AddressResponse.class
+tn\iit\micro\service\cloud\repository\StudentRepository.class
+tn\iit\micro\service\cloud\service\StudentService.class
