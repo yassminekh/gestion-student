@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\controller\StudentController.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\dto\StudentRequest.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\dto\StudentResponse.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\entities\Address.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\entities\Student.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\repository\AddressRepository.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\repository\StudentRepository.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\service\StudentService.java
+C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootAppSOA\src\main\java\tn\iit\micro\service\cloud\SpringBootAppSoaApplication.java
